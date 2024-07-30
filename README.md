@@ -1,5 +1,8 @@
 # Weather-3days
 
+## Overview
+A simple and responsive weather website that uses Bootstrap for styling and a weather API for fetching real-time weather data.
+
 ## Features
 
 - **Real-time Weather Data**: Fetches current weather information using a weather API.

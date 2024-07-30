@@ -12,6 +12,6 @@ A simple and responsive weather website that uses Bootstrap for styling and a we
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap 4**
+- **Bootstrap 5**
 - **Weather API (weatherapi)**
 - **Location API (ipgeolocation)**
